@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color:black;
+    --secundary-color:white;
+    --tertiary-color:green;
+    --quaternary-color:gray;
+    --quinary-color:blue;
+    --senary-color:red;
+    --septenaty-color:yellow;
+}
+
+body, input, textarea, button{
+    font-size: 1rem;
+    font-family: sans-serif;
+}
