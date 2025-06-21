@@ -1,0 +1,8 @@
+.header {
+    background-color: black;
+    color: yellow;
+    height: 5rem;
+    display: flex;
+    justify-content: right;
+  
+}
